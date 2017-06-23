@@ -1,9 +1,9 @@
 # Site settings
  url      : http://www.keithbuhler.com
- baseurl  : 
+ baseurl  : /sophia
  locale:         "en"
  title:          "keithbuhler.com"
- description:    "The professional site of Keith Buhler, philosopher, classical educator, and writer."
+ description:    "The site of Southern California chapter of the Society of Orthodox Christian philosophers"
  comments: 
   provider:       "facebook"
   facebook: 
