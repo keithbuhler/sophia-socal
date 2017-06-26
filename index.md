@@ -1,15 +1,18 @@
 ---
 layout: page
-title: 
+title: SOPHIA SoCal
 permalink: 
 header:
-  image: 
+  image: /images/sophia.jpg
 ---
 <br>
 
 
+Welcome!
 
-SOPHIA is an informal gathering of Orthodox Christian laymen and clergy. Members are philosophers, thinkers, teachers, and anyone interested in philosophy and theology. 
+SOPHIA SoCal is an informal gathering of Orthodox Christian laymen and clergy. Members are philosophers, thinkers, teachers, and anyone interested in philosophy and theology. 
 
-Join us!
+Come dialog with us! 
+
+If you'd like to join, contact Herman Slavens at the following:  osleibh youknowwhat gmail dot com.
 
