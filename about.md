@@ -3,7 +3,7 @@ layout: page
 title: About SOPHIA SoCal
 permalink: /about
 header:
-      image: /images/sophia.jpg
+image: http://keithbuhler.com/images/sophia.jpg
 ---
 <br>
 

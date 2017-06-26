@@ -3,12 +3,14 @@ layout: page
 title: SOPHIA SoCal
 permalink: 
 header:
-      image: /images/sophia.jpg
+      image: http://keithbuhler.com/images/sophia.jpg
 ---
 <br>
 
 
-## Welcome! Who/what/where is SOPHIA SoCal and why does it exist?
+## Welcome! 
+
+Who/what/where is SOPHIA SoCal and why does it exist?
 
 SOPHIA SoCal is a monthly informal gathering in Orange County, CA, consisting of Orthodox Christian laymen and clergy who are  philosophers, thinkers, teachers, or simply interested in philosophy and Orthodox theology.
 
@@ -23,6 +25,8 @@ If you'd like to join, contact Herman Slavens at the following:  osleibh youknow
 
 ### Current Meeting
 
-As far as content goes, I have proposed that we start with David Bradshaw's Aristotle East and West: Metaphysics and the Division of Christendom. 
+The first meeting is being scheduled currently. We are planning to read chapters of [David Bradshaw's *Aristotle East and West: Metaphysics and the Division of Christendom.*](http://amzn.to/2terXuF)
 
 This book would be supplemented by primary texts (e.g., by Aristotle, Aquinas, or St. Gregory Palamas) discussed in each chapter. Other, future texts for discussion could range from Alistair McIntyre's After Virtue, Khaled Anatolios’s Retrieving Nicaea: The Development and Meaning of Trinitarian Doctrine, or The Foundations of Christian Bioethics by Engelhardt, Jr. 
+
+Check back soon for date, time, and location.
