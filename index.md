@@ -3,7 +3,7 @@ layout: page
 title: SOPHIA SoCal
 permalink: 
 header:
-  image: /images/sophia.jpg
+      image: /images/sophia.jpg
 ---
 <br>
 
