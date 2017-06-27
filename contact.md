@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /sophia/contact/
+permalink: /contact/
 header:
       image: http://keithbuhler.com/images/sophia.jpg
 ---
