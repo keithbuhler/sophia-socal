@@ -3,14 +3,13 @@ layout: page
 title: About SOPHIA SoCal
 permalink: /about
 header:
-image: http://keithbuhler.com/images/sophia.jpg
+      image: http://keithbuhler.com/images/sophia.jpg
 ---
+
 <br>
 
 
-
-
-In June 2017, Fr. Michael Reagan (of St. Barnabas Orthodox Church) blessed reading group on philosophy and Orthodoxy.
+In June 2017, Fr. Michael Reagan (of St. Barnabas Orthodox Church) blessed a reading group on philosophy and Orthodoxy.
 
 This group as a chapter of “SOPHIA”, the Society of Orthodoxy Philosophers in American, co-founded by Dr. H. Tristram Engelhardt, Jr. (aka Rdr Herman). SOPHIA proper has an annual conference (usually in February) at Holy Archangels Monastery in Kendalia, TX. 
 
