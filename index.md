@@ -12,7 +12,7 @@ Hello friends!
 
 It's summer -- time to read and discuss! We want to stok our love of goodness, truth, beauty, books, dialectical inquiry, friendship, joy, and the contemplative life!
 
-Join us for a Summer book club!  We plan to meet *most* Thursday nights, from 8-10pm, at the Buhler or Selby residence (31701 Ridge Route Rd, Castaic). You may come for one, two, or all! It's open invite but we'll probably cap things around 15 people, if it comes to that, just because of seating. M. Selby is making food, so feel free to bring snacks/drinks. 
+Join us for a Summer book club!  We plan to meet *most* Thursday nights, from 8-10pm, at the Buhler or S. residence (31701 Ridge Route). You may come for one, two, or all! It's open invite but we'll probably cap things around 15 people, if it comes to that, just because of seating. MS is making food, so feel free to bring snacks/drinks. 
 
 
 ### What to read? 
@@ -22,10 +22,13 @@ We're *definitely* reading:
 * Plato, Alcibiades I (40 pages), on knowing yourself (see link below for text)
 * Father Brown Stories (selections from Innocence of Father Brown, Wisdom, Incredulity, Secret, Scandal)
 
-
 <br> 
 
-We might also be reading some others: Plato, Hippias Major, (40 pages?)  on beauty; Plato, Gorgias (80 pages), on rhetoric; Beauty of the Infinite, Bentley Hart; Infinite Jest, Foster Wallace.... Your suggestions here!
+
+
+
+<br> 
+We might also be reading some others. Ideas that have been tossed around include:  Plato, Hippias Major, (40 pages?)  on beauty; Plato, Gorgias (80 pages), on rhetoric; David Foster Wallace.... Your suggestions here!
 
 
 ## Tentative Schedule
