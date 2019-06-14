@@ -3,7 +3,7 @@ layout: page
 title: Past Meetings
 permalink: /past-meetings/
 header:
-      image: http://keithbuhler.com/images/sophia.jpg
+      image: http://keithbuhler.com/images/bookshelves.jpg
 ---
 
 <br>
