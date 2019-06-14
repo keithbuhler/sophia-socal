@@ -7,59 +7,41 @@ header:
 ---
 <br>
 
-It's summer -- time to read and discuss! Join us for an informal book club meetings. 
+Hello friends! 
 
-## When
 
-Summertime  
-Most Thursday nights, 8-10pm. 
+It's summer -- time to read and discuss! We want to stok our love of goodness, truth, beauty, books, dialectical inquiry, friendship, joy, and the contemplative life!
 
-## Where
+<br> 
 
-The Buhlers or Selbys (31701 Ridge Route Rd, Castaic)
+Join us for an informal book club meetings.  We plan to meet *most* Thursday nights, from 8-10pm, at the Buhler or Selby residence (31701 Ridge Route Rd, Castaic). 
 
-## What
+
+### What to read? 
 
 We're definitely reading: 
 
 * Plato, Alcibiades I (40 pages), on knowing yourself
 * Father Brown Stories (selections from Innocence of Father Brown, Wisdom, Incredulity, Secret, Scandal)
 
-And maybe reading: 
-
-* Plato, Hippias Major, (40 pages?)  on beauty 
-* Plato, Gorgias (80 pages), on rhetoric
-* Beauty of the Infinite, Bentley Hart
-* Infinite Jest, Foster Wallace
-* Your suggestions here
-
-## Who
-
-Buhlers, Selbys, Lawmans, and more!
-
-
-## Why
-
-For the love of goodness, truth, beauty, books, dialectical inquiry, friendship, joy, and the contemplative life!
 
 <br> 
-<br> 
-<br> 
+
+We might also be reading some others: Plato, Hippias Major, (40 pages?)  on beauty; Plato, Gorgias (80 pages), on rhetoric; Beauty of the Infinite, Bentley Hart; Infinite Jest, Foster Wallace.... Your suggestions here!
+
 
 ## Tentative Schedule
 
-June 20 - Alcibiades I - first 20 pages or so (Keith leads)
-June 27 - Alcibiades I - last 20 pages or so  (Keith out of town, Selbys lead?)
-
-July 4 - possible skip, or possible reschedule for July 5, Friday? 
-July 11 - Father Brown 1-4 stories (Blue Cross, Secret Garden, Invisible Man, plus one or two others)
-July 18 - Father Brown 1-4 stories (Honor of Isreal Gow, Wrong Shape, plus one or two more)
-
-July 25 Father Brown 1-4 stories (Keith out of town) (The Quick One, Sign of the Broken Sword plus a few more)
-
-Aug 2 - David Foster Wallace, essay "Nearly Lethal Comforts of the Luxury Cruise"? 
-Aug 8 - TBD (more Wallace?)
-Aug 15 - TBD (Movie night?)
+| Date    | Reading                                                                                                                                                         | Leader  | Location | Notes |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------|-------|
+| June 20 | [Plato, Alcibiades I, first 20 pages](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0176%3Atext%3DAlc.+1%3Asection%3D103a)              | Buhlers | Buhlers  |       |
+| June 27 | Plato, Alcibiades I, second 20 pages                                                                                                                            | Selbys  | Selbys   |       |
+| July 11 | [Chesterton, Father Brown, Blue Cross, Secret Garden, Invisible Man](http://www.gkc.org.uk/gkc/books/)                                                          | TBD     |          |       |
+| July 18 | Chesterton, Father Brown, (Honor of Isreal Gow, Wrong Shape, plus one or two more)                                                                              | TBD     |          |       |
+| July 25 | Chesterton, Father Brown, (The Quick One, Sign of the Broken Sword)                                                                                             | TBD     |          |       |
+| Aug 2   | [David Foster Wallace, essay "Nearly Lethal Comforts of the Luxury Cruise"](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf) | TBD     |          |       |
+| Aug 8   | TBD - More Wallace?                                                                                                                                             | TBD     |          |       |
+| Aug 15  | TBD - Movie night?                                                                                                                                              | TBD     |          |       |
 
 
 
@@ -77,3 +59,6 @@ Aug 15 - TBD (Movie night?)
 
 
 
+<br> 
+
+Look forward to seeing you there!

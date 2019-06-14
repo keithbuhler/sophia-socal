@@ -3,12 +3,10 @@ layout: page
 title: Contact
 permalink: /contact/
 header:
-      image: http://keithbuhler.com/images/sophia.jpg
+      image: http://keithbuhler.com/images/bookshelves.jpg
 ---
 
 <br>
 
 
-For SOPHIA related questions, contact Herman Slavens at the following: osleibh youknowwhat gmail dot com. 
-
-For website related questions, contact Keith Buhler at: keithedbuhler youknowwhat gmail dot com.
+For all book club related questions, contact the Buhler of Keith at the following: keithedbuhler youknowwhat gmail dot com. 
