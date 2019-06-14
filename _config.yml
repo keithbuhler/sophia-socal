@@ -1,9 +1,9 @@
 # Site settings
  url      : http://www.keithbuhler.com
- baseurl  : /sophia
+ baseurl  : /bookclub
  locale:         "en"
  title:          "keithbuhler.com"
- description:    "The site of Southern California chapter of the Society of Orthodox Christian philosophers"
+ description:    "The site of the unofficial Santa Clarita Chesterton Club"
  comments: 
   provider:       "facebook"
   facebook: 
