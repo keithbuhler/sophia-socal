@@ -24,11 +24,14 @@ We're *definitely* reading:
 
 <br> 
 
+Plato's *Alcibiades* has been long considered one of the best introductions to Platonic philosophy. Aside from some weirdness at the beginning (Socrates being flirtatious with the young, powerful, and attractive general Alcibiades), it's got some fantastic dialogue, questions, concepts, and beautiful moments. 
+
+Chestertono's *Father Brown* stories are kind of like his *Narnia*; many people know about Chesterton as the author of Father Brown beyond all else that he wrote. They are playful but serious detective stories where the "detective" is a frumpy dumpy little Catholic priest whose Christian worldview helps him to understand sin (and hence criminals) as well as virtue (and hence justice). They are short, very readable, and fun with lots to discuss. 
 
 
 
 <br> 
-We might also be reading some others. Ideas that have been tossed around include:  Plato, Hippias Major, (40 pages?)  on beauty; Plato, Gorgias (80 pages), on rhetoric; David Foster Wallace.... Your suggestions here!
+Beyond those... We might also be reading some others. Ideas that have been tossed around include:  Plato, Hippias Major, (40 pages?)  on beauty; Plato, Gorgias (80 pages), on rhetoric; David Foster Wallace.... Your suggestions here!
 
 
 ## Tentative Schedule
