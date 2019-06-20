@@ -12,7 +12,11 @@ Hello friends!
 
 It's summer -- time to read and discuss! We want to stok our love of goodness, truth, beauty, books, dialectical inquiry, friendship, joy, and the contemplative life!
 
-Join us for a Summer book club!  We plan to meet *most* Thursday nights, from 8-10pm, at the Buhler or S. residence (31701 Ridge Route). You may come for one, two, or all! It's open invite but we'll probably cap things around 15 people, if it comes to that, just because of seating. MS is making food, so feel free to bring snacks/drinks. 
+Join us for a Summer book club!  We plan to meet *most* Thursday nights, from 8-10pm, at the Buhler or S. residence (31701 Ridge Route). You may come for one, two, or all! It's open invite but we'll probably cap things around 15 people, if it comes to that, just because of seating. MS is making food, so feel free to bring a *small side* of snacks/drinks. (Not too much.)
+
+The Buhlers are providing hot tea, decaf coffee, and water.
+
+
 
 
 ### What to read? 
@@ -52,6 +56,25 @@ Beyond those... We might also be reading some others. Ideas that have been tosse
 ### Possible discussion topics
 
 * Plato, Alcibiades: how Socrates appeals to Alcibiades self interest to turn his ambition toward virtue knowing yourself, the nous or mind as the true self pursuing virtue rather than taking care of stuff true success, true ambition 
+* Why does Socrates sign only *prevent* him (not encourage him)?
+* Socrates leads with "You're too great for your lovers. You need nothing; you have no equal."
+* Alcibiades is curious because of Socrates's *presence*. (104d)
+* The ambition question: "“Alcibiades, do you prefer to live with your present possessions, or to die immediately if you are not to have the chance of acquiring greater things?” I believe you would choose to die" (105) What would you do? 
+* Who is more ambitious? " Without me it is impossible for all those designs of yours to be crowned with achievement; so great is the power I conceive myself to have over your affairs and over you, and it is for this very reason, I believe, that the god has so long prevented me from talking with you, and I was waiting to see when he would allow me." (105)
+* Socrates secures the agreement that he must answer questions. (106) What is the *ethical* implication of this agreement? Power must submit to logos? And beauty as well? 
+* Alcibiades *thinks he knows* that about which he advises.
+* Alcibiades claims to know about war, peace, and state affairs (106)
+* Alcibiades (after some trouble) says he will make the Athenians "better" by making them act justly -- honorably, lawfully. So he is claiming to know what justice is (implicitly). Do we know what justice is? 
+* We claim to know justice by calling out injustice -- "Many a time I heard you, when as a child you were dicing or playing some other game at your teacher's or elsewhere, instead of showing hesitation about what was just and unjust, speak in very loud and confident tones about one or other of your playmates, saying he was a rascal and a cheat who played unfairly. Is not this a true account?"
+* When did you discover or learn what is just and unjust? This is a classic Platonic question -- do we recollect? Always know? Or never learn because we don't know? Are we "socialized" whatever that means, before we realize what is happening
+* Alcibiades claims he has "many" teachers, no one teacher. Socialization hypothesis?
+
+
+
+
+
+
+## Father Brown Discussion
 * Father Brown: What is innocence?
 * Father Brown: How does a detective become excellent at solving mysteries? 
 * Father Brown: what makes someone a criminal? what makes them repent? 
